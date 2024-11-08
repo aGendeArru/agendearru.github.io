@@ -3,13 +3,13 @@ entries:
   mecpod:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2024-11-07T15:21:09.817569794Z"
+    created: "2024-11-08T12:08:23.04450631Z"
     description: A Helm chart for Kubernetes
     digest: ed617ab987cab50a558ea6c5c502c386e4c9839788e8dddabb35f9febbc18c3b
     icon: https://pbs.twimg.com/profile_images/1262413201439952897/ra0ubtYV.jpg
     name: mecpod
     type: application
     urls:
-    - mecpod-1.0.0.tgz
+    - https://agendearru.github.io/charts/mecpod-1.0.0.tgz
     version: 1.0.0
-generated: "2024-11-07T15:21:09.816440725Z"
+generated: "2024-11-08T12:08:23.043344462Z"
